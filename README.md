@@ -1,4 +1,6 @@
- x# Orphan.io
+pip install fastapi uvicorn
+export FIB_API_KEY="change-me-please"   # optional if you modify code to read env
+uvicorn server:app --host 0.0.0.0 --port 8000x# Orphan.io
 Full Net Serve
     ((.#hx do
 bd#C see# Seek//god=sans.iu//:;(@all)
